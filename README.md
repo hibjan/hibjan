@@ -2,22 +2,22 @@
 
 I am a third-year Computer Science student at **Complutense University of Madrid (UCM)**, specializing in **Software Engineering**, **Game Development** and **Artificial Intelligence**.
 
-## Skills
+## 🛠 Skills
 
-### Software Engineering
+### 🚀 Software Engineering
 
 - **Languages**: JavaScript (ES6+), Python, C++, Java
 - **Frameworks** & Libraries: Node.js, React, Express, Django
 - **Tools & DevOps**: Git, Docker, CI/CD (GitHub Actions, Jenkins)
 - **Databases**: PostgreSQL, MongoDB, Firebase
 
-### Game Development
+### 🎮 Game Development
 
 - **Engine**s: Phaser.js, Unity (C#), Godot
 - **Concepts**: Physics engines, Game AI, Procedural generation
 - **Tools**: Aseprite, Blender, FMOD
 
-### Artificial Intelligence
+### 📈 Artificial Intelligence
 
 - **Libraries & Frameworks**: TensorFlow, PyTorch, Scikit-Learn
 - **Techniques**: Neural Networks, Reinforcement Learning, Computer Vision
