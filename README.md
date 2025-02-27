@@ -1,6 +1,6 @@
 ## 📝 About Me
 
-Third-year Computer Science student at **Complutense University of Madrid (UCM)**, specializing in **Software Engineering**, **Game Development** and **Artificial Intelligence**.
+Third-year Computer Science student at Complutense University of Madrid (UCM), specializing in Software Engineering, Game Development and Artificial Intelligence.
 
 ## 🛠 Skills
 
