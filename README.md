@@ -1,4 +1,4 @@
-## About Me
+## 📝 About Me
 
 I am a third-year Computer Science student at **Complutense University of Madrid (UCM)**, specializing in **Software Engineering**, **Game Development** and **Artificial Intelligence**.
 
@@ -23,7 +23,7 @@ I am a third-year Computer Science student at **Complutense University of Madrid
 - **Techniques**: Neural Networks, Reinforcement Learning, Computer Vision
 - **Applications**: AI for games, Recommender Systems, NLP
 
-## Contact
+## ⬇️ Contact
 
 Feel welcome to reach out!
 
