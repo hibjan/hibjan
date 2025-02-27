@@ -13,7 +13,7 @@ Feel free to connect with me for collaboration or inquiries!
 
  [![LinkedIn](https://img.icons8.com/ios-filled/50/0072b1/linkedin.png)](https://www.linkedin.com/in/hibjan/) 
  [![LeetCode](https://img.icons8.com/?size=50&id=9L16NypUzu38&format=png&color=000000)](https://leetcode.com/u/hibjan/)
- [![Kaggle](https://img.icons8.com/?size=100&id=1iP83OYM1FL-&format=png&color=000000)]((https://www.kaggle.com/juanandrshibjan)) 
+ [![Kaggle](![image](https://github.com/user-attachments/assets/ba6a493e-b352-4c7e-9fb7-3efb147b8d79))]((https://www.kaggle.com/juanandrshibjan)) 
  [![Gmail](https://img.icons8.com/ios-filled/50/ea4335/gmail.png)](mailto:hibjanjuan@gmail.com) 
 
  
