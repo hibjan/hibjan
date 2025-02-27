@@ -7,8 +7,8 @@ Third-year Computer Science student at Complutense University of Madrid (UCM), s
 ### 🚀 Software Engineering
 
 - **Languages**: C, C++, Java, Python, JavaScript, HTML, CSS, MATLAB, VHDL, R, SQL
-- **Frameworks & Libraries**: 
-- **Tools & DevOps**: Git, VS Code
+- **Frameworks & Libraries**: Django, Vue.js
+- **Tools & DevOps**: Git, VS Code, JUnit, PyCharm, Eclipse
 - **Databases**: PostgreSQL
 
 ### 🎮 Game Development
