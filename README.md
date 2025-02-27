@@ -6,22 +6,22 @@ Third-year Computer Science student at **Complutense University of Madrid (UCM)*
 
 ### 🚀 Software Engineering
 
-- **Languages**: JavaScript (ES6+), Python, C++, Java
-- **Frameworks** & Libraries: Node.js, React, Express, Django
-- **Tools & DevOps**: Git, Docker, CI/CD (GitHub Actions, Jenkins)
-- **Databases**: PostgreSQL, MongoDB, Firebase
+- **Languages**: C, C++, Java, Python, JavaScript, HTML, CSS, MATLAB, VHDL, R, SQL
+- **Frameworks & Libraries**: 
+- **Tools & DevOps**: Git, VS Code
+- **Databases**: PostgreSQL
 
 ### 🎮 Game Development
 
-- **Engine**s: Phaser.js, Unity (C#), Godot
-- **Concepts**: Physics engines, Game AI, Procedural generation
-- **Tools**: Aseprite, Blender, FMOD
+- **Engine**s: Phaser.js, Godot, Unity
+- **Concepts**: Game AI
+- **Tools**: Audacity, FL Studio, Tiled
 
 ### 📈 Artificial Intelligence
 
-- **Libraries & Frameworks**: TensorFlow, PyTorch, Scikit-Learn
-- **Techniques**: Neural Networks, Reinforcement Learning, Computer Vision
-- **Applications**: AI for games, Recommender Systems, NLP
+- **Libraries & Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy
+- **Techniques**: Neural Networks, Reinforcement Learning
+- **Applications**: AI for games, Recommender Systems
 
 ## ⬇️ Contact
 
