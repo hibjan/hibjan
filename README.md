@@ -8,8 +8,8 @@ Final-year Computer Science student at **Universidad Complutense de Madrid (UCM)
 
 ## 🚀 Featured Projects
 
-- **[Multimedia Collection Explorer](https://github.com/hibjan/TFG)** _(Bachelor's Thesis)_ — Scalable Java/Tomcat + PostgreSQL microservices for exploring large multimedia collections (TMDb, Europeana). Containerized with Docker + Cloudflare tunnel for zero-port production deploy. &nbsp; `Java` `Tomcat` `PostgreSQL` `Docker`
-- **[Tiny Compiler + Virtual Machine](https://github.com/hibjan/Procesadores-de-Lenguajes)** — Complete four-phase language processor in Java for a prototypical imperative language (lexical → syntactic → semantic → code generation), targeting a stack-based VM I also built to execute the generated instruction set. &nbsp; `Java` `Compilers` `VMs`
+- **[Multimedia Collection Explorer](https://github.com/hibjan/TFG)** _(Bachelor's Thesis)_ — Scalable Java/Tomcat + PostgreSQL microservices for exploring large multimedia collections (TMDb, Europeana, DBLP). Containerized with Docker + Cloudflare tunnel for zero-port production deploy. &nbsp; `Java` `Tomcat` `PostgreSQL` `Docker`
+- **[Tiny Compiler + Virtual Machine](https://github.com/hibjan/Procesadores-de-Lenguajes)** — Complete four-phase language processor in Java for a prototypical imperative language (lexical → syntactic → semantic → code generation), targeting a stack-based VM built to execute the generated instruction set, which allows complex programs. &nbsp; `Java` `Compilers` `VMs`
 - **[Concurrency Library + P2P Server](https://github.com/hibjan/PC)** — Client/server peer-to-peer system in Java built from scratch — synchronization primitives without external libraries (locks, monitors), message-based protocols, user registry, shared library, and P2P downloads with a GUI client. &nbsp; `Java` `Maven` `Concurrency` `Sockets`
 
 ---
