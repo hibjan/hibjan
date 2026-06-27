@@ -14,6 +14,16 @@ Final-year Computer Science student at **Universidad Complutense de Madrid (UCM)
 
 ---
 
+<!--
+🌱 CURRENTLY WORKING ON — to show this, delete the opening comment line above and the closing comment line below.
+
+## 🌱 Currently Working On
+
+- **[Project Name](https://github.com/hibjan/REPO)** — One line on what it does, the problem it solves, and the stack. &nbsp; `Tech` `Tech`
+
+---
+-->
+
 ## 🛠 Tech I Work With
 
 **AI / ML**
@@ -66,8 +76,12 @@ _Also explored: Solidity, MiniZinc, Z3, R, MATLAB, VHDL, LaTeX._
 
 ## 📊 GitHub
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibjan&show_icons=true&hide_border=true&theme=default)](https://github.com/hibjan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibjan&layout=compact&hide_border=true)](https://github.com/hibjan)
+<p align="center">
+  <a href="https://github.com/hibjan">
+    <img height="170" alt="Juan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hibjan&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=percentile&theme=transparent" />
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibjan&hide_border=true&hide=html,css,tex&langs_count=6&layout=compact&theme=transparent" />
+  </a>
+</p>
 
 ---
 
